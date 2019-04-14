@@ -1,0 +1,15 @@
+.coolTitle{
+	text-align: center;
+	background-color: pink;
+	color: blue;
+}
+
+.done{
+	cursor: pointer;
+	text-decoration: line-through;
+}
+
+#del{
+
+	margin:2px auto;
+}
